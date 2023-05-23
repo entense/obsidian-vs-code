@@ -2,6 +2,7 @@
 	"name": "theme-original-obsidian",
 	"displayName": "(Original) Obsidian",
 	"description": "(Actual) Obsidian theme for Visual Studio Code, based on the TextMate and Eclipse originals.",
+	"publisher": "entense",
 	"icon": "icon.png",
 	"galleryBanner": {
 		"color": "#293134",
