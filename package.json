@@ -1,6 +1,6 @@
 {
-	"name": "theme-original-obsidian2",
-	"displayName": "(Original) Obsidian 2",
+	"name": "theme-original-obsidian",
+	"displayName": "(Original) Obsidian",
 	"description": "(Actual) Obsidian theme for Visual Studio Code, based on the TextMate and Eclipse originals.",
 	"icon": "icon.png",
 	"galleryBanner": {
@@ -18,19 +18,18 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "(Original) Obsidian 2",
+				"label": "(Original) Obsidian",
 				"uiTheme": "vs-dark",
 				"path": "./themes/actual_obsidian.json"
 			},
 			{
-				"label": "(Original) Obsidian (legacy) 2",
+				"label": "(Original) Obsidian (legacy)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/actual_obsidian_legacy.json"
 			}
 		]
 	},
 	"__metadata": {
-
 		"installedTimestamp": 1619972600358
 	}
 }
