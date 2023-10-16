@@ -58,7 +58,7 @@
         },
         {
             "name": "Green function support",
-            "scope": "support.class.builtin.php, support.class.exception.php, meta.directive.blade, source.js support.constant, support.class.php, support.class.php source, meta.function-call, keyword.operator.new, support.function.var, support.function.array.php, support.function.construct, source.php support.function, source.js support.function, source.js keyword.operator.expression",
+            "scope": "support.class.builtin.php, support.class.exception.php, meta.directive.blade, source.js support.constant, support.class.php, support.class.php source, meta.function.parameter.typehinted.php constant.other.class.php, meta.function-call, keyword.operator.new, support.function.var, support.function.array.php, support.function.construct, source.php support.function, source.js support.function, source.js keyword.operator.expression",
             "settings": {
                 "fontStyle": "bold",
                 "foreground": "#93C763"
@@ -455,14 +455,6 @@
                 "foreground": "#F0F0F0"
             }
         },
-        // {
-        //     "name": "Twig: Tag",
-        //     "scope": "variable.other.property.twig",
-        //     "settings": {
-        //         "fontStyle": "",
-        //         "foreground": "#E0E2E4"
-        //     }
-        // },
         {
             "name": "Twig: Tag",
             "scope": "text.html.twig punctuation.section",
